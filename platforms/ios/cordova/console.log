@@ -1,0 +1,102 @@
+2015-06-20 11:25:46.785 Ιατρικό Βοήθημα[3463:42538] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Data/Application/90B76153-1551-4A20-9D51-8CB478A84403/Library/Cookies/Cookies.binarycookies
+2015-06-20 11:25:47.846 Ιατρικό Βοήθημα[3463:42538] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-20 11:25:47.847 Ιατρικό Βοήθημα[3463:42538] Multi-tasking -> Device: YES, App: YES
+2015-06-20 11:25:47.912 Ιατρικό Βοήθημα[3463:42538] Unlimited access to network resources
+2015-06-20 11:25:47.922 Ιατρικό Βοήθημα[3463:42538] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-20 11:25:52.426 Ιατρικό Βοήθημα[3463:42538] Resetting plugins due to page load.
+2015-06-20 11:25:54.532 Ιατρικό Βοήθημα[3463:42538] Finished load of: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Bundle/Application/6AED2597-93DA-4A96-9F1F-B8248C7F28C0/%CE%99%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%BF%CC%81%20%CE%92%CE%BF%CE%B7%CC%81%CE%B8%CE%B7%CE%BC%CE%B1.app/www/index.html#/Calculators/Generic
+2015-06-20 11:28:24.312 Ιατρικό Βοήθημα[3463:44194] Terminating since there is no system app.
+2015-06-23 00:46:38.599 Ιατρικό Βοήθημα[1941:47284] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Data/Application/F03591CD-D093-40CD-B23E-7A47458573DD/Library/Cookies/Cookies.binarycookies
+2015-06-23 00:46:39.108 Ιατρικό Βοήθημα[1941:47284] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-23 00:46:39.108 Ιατρικό Βοήθημα[1941:47284] Multi-tasking -> Device: YES, App: YES
+2015-06-23 00:46:39.185 Ιατρικό Βοήθημα[1941:47284] Unlimited access to network resources
+2015-06-23 00:46:39.204 Ιατρικό Βοήθημα[1941:47284] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-23 00:46:40.501 Ιατρικό Βοήθημα[1941:47284] Resetting plugins due to page load.
+2015-06-23 00:46:41.608 Ιατρικό Βοήθημα[1941:47284] Finished load of: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Bundle/Application/7957DF93-0CD9-48A4-AB8C-FA25AF8A4A81/%CE%99%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%BF%CC%81%20%CE%92%CE%BF%CE%B7%CC%81%CE%B8%CE%B7%CE%BC%CE%B1.app/www/index.html#/Calculators/Generic
+2015-06-25 00:25:35.288 Ιατρικό Βοήθημα[2626:189224] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Data/Application/4683D68D-9A57-4BEF-AC30-C62C6BC8C7E7/Library/Cookies/Cookies.binarycookies
+2015-06-25 00:25:36.647 Ιατρικό Βοήθημα[2626:189224] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 00:25:36.647 Ιατρικό Βοήθημα[2626:189224] Multi-tasking -> Device: YES, App: YES
+2015-06-25 00:25:36.693 Ιατρικό Βοήθημα[2626:189224] Unlimited access to network resources
+2015-06-25 00:25:36.718 Ιατρικό Βοήθημα[2626:189224] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 00:25:39.660 Ιατρικό Βοήθημα[2626:189224] Resetting plugins due to page load.
+2015-06-25 00:25:41.488 Ιατρικό Βοήθημα[2626:189224] Finished load of: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Bundle/Application/9132645E-595E-4A8F-8953-F296FA89E9DB/%CE%99%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%BF%CC%81%20%CE%92%CE%BF%CE%B7%CC%81%CE%B8%CE%B7%CE%BC%CE%B1.app/www/index.html#/Calculators/Generic
+2015-06-25 00:27:55.800 Ιατρικό Βοήθημα[2744:190528] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Data/Application/DCAD6811-03D8-4672-BE78-486DA6814818/Library/Cookies/Cookies.binarycookies
+2015-06-25 00:27:55.985 Ιατρικό Βοήθημα[2744:190528] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 00:27:55.986 Ιατρικό Βοήθημα[2744:190528] Multi-tasking -> Device: YES, App: YES
+2015-06-25 00:27:55.998 Ιατρικό Βοήθημα[2744:190528] Unlimited access to network resources
+2015-06-25 00:27:56.010 Ιατρικό Βοήθημα[2744:190528] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 00:27:56.455 Ιατρικό Βοήθημα[2744:190528] Resetting plugins due to page load.
+2015-06-25 00:27:57.359 Ιατρικό Βοήθημα[2744:190528] Finished load of: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Bundle/Application/0EF3CA2A-398D-4E8B-A312-2E667FA8C91F/%CE%99%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%BF%CC%81%20%CE%92%CE%BF%CE%B7%CC%81%CE%B8%CE%B7%CE%BC%CE%B1.app/www/index.html#/Calculators/Generic
+2015-06-25 01:23:35.728 Ιατρικό Βοήθημα[3370:211299] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Data/Application/A699A513-98BD-45CA-91D6-F2230DC8BB9B/Library/Cookies/Cookies.binarycookies
+2015-06-25 01:23:36.296 Ιατρικό Βοήθημα[3370:211299] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 01:23:36.297 Ιατρικό Βοήθημα[3370:211299] Multi-tasking -> Device: YES, App: YES
+2015-06-25 01:23:36.307 Ιατρικό Βοήθημα[3370:211299] Unlimited access to network resources
+2015-06-25 01:23:36.320 Ιατρικό Βοήθημα[3370:211299] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 01:23:37.189 Ιατρικό Βοήθημα[3370:211299] Resetting plugins due to page load.
+2015-06-25 01:23:38.155 Ιατρικό Βοήθημα[3370:211299] Finished load of: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Bundle/Application/0152C91A-3BB3-4E9F-8408-E1A44787E116/%CE%99%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%BF%CC%81%20%CE%92%CE%BF%CE%B7%CC%81%CE%B8%CE%B7%CE%BC%CE%B1.app/www/index.html#/Calculators/Generic
+2015-06-25 01:23:54.420 Ιατρικό Βοήθημα[3370:211545] Communications error: <OS_xpc_error: <error: 0x2d8b5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2d8b83c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-06-25 03:37:44.824 Ιατρικό Βοήθημα[4244:259030] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Data/Application/67EC367A-EE5D-4BA3-B8CE-ACE49DA539CC/Library/Cookies/Cookies.binarycookies
+2015-06-25 03:37:45.910 Ιατρικό Βοήθημα[4244:259030] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 03:37:45.910 Ιατρικό Βοήθημα[4244:259030] Multi-tasking -> Device: YES, App: YES
+2015-06-25 03:37:45.939 Ιατρικό Βοήθημα[4244:259030] Unlimited access to network resources
+2015-06-25 03:37:45.989 Ιατρικό Βοήθημα[4244:259030] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 03:37:47.642 Ιατρικό Βοήθημα[4244:259030] Resetting plugins due to page load.
+2015-06-25 03:37:49.076 Ιατρικό Βοήθημα[4244:259030] Finished load of: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/693E5448-7CFB-41E8-B672-DF3EB4CC96FB/data/Containers/Bundle/Application/480E6170-EC37-4066-A733-453BED0EF63D/%CE%99%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%BF%CC%81%20%CE%92%CE%BF%CE%B7%CC%81%CE%B8%CE%B7%CE%BC%CE%B1.app/www/index.html#/Calculators/Generic
+2015-07-16 01:59:55.594 Ιατρικό Βοήθημα[9496:284907] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/1D458360-B37B-45D8-AA81-487E4E143AE7/data/Containers/Data/Application/A8A2C91A-141E-42A2-8E60-F01593B06E36/Library/Cookies/Cookies.binarycookies
+2015-07-16 01:59:56.455 Ιατρικό Βοήθημα[9496:284907] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-16 01:59:56.456 Ιατρικό Βοήθημα[9496:284907] Multi-tasking -> Device: YES, App: YES
+2015-07-16 01:59:56.519 Ιατρικό Βοήθημα[9496:284907] Unlimited access to network resources
+2015-07-16 01:59:56.542 Ιατρικό Βοήθημα[9496:284907] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-16 01:59:58.345 Ιατρικό Βοήθημα[9496:284907] Resetting plugins due to page load.
+2015-07-16 02:00:00.653 Ιατρικό Βοήθημα[9496:284907] Finished load of: file:///Users/mrichana/Library/Developer/CoreSimulator/Devices/1D458360-B37B-45D8-AA81-487E4E143AE7/data/Containers/Bundle/Application/B16B9C52-7E40-4E25-B6F1-C32F1FEB4B4D/%CE%99%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%BF%CC%81%20%CE%92%CE%BF%CE%B7%CC%81%CE%B8%CE%B7%CE%BC%CE%B1.app/www/index.html#/Calculators/Generic

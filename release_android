@@ -1,0 +1,5 @@
+cd /Users/mrichana/Projects/medcalcapp
+cordova build android --release
+cd platforms/android/build/outputs/apk
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore ../../../medcalc.keystore android-release-unsigned.apk medcalc
+zipalign -v 4 android-release-unsigned.apk ../../../medcalc.apk
