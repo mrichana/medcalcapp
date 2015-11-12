@@ -1,0 +1,1 @@
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\AppPackages\CordovaApp.Phone_0.0.21.0_anycpu_debug_Test\CordovaApp.Phone_0.0.21.0_anycpu_debug.appx

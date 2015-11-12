@@ -12,3 +12,7 @@ www
 *.bin
 
 *.bin
+*.lock
+*.lock
+*.bin
+*.lock

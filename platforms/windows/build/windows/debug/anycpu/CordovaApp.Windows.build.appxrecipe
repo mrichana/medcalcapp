@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP</Machine>
+    <WindowsUser>mrich</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>medcalc.richana.eu</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\debug\anycpu\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\android-chrome-144x144.png">
+      <PackagePath>www\android-chrome-144x144.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\android-chrome-192x192.png">
+      <PackagePath>www\android-chrome-192x192.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\android-chrome-36x36.png">
+      <PackagePath>www\android-chrome-36x36.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\android-chrome-48x48.png">
+      <PackagePath>www\android-chrome-48x48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\android-chrome-72x72.png">
+      <PackagePath>www\android-chrome-72x72.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\android-chrome-96x96.png">
+      <PackagePath>www\android-chrome-96x96.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\apple-touch-icon-114x114.png">
+      <PackagePath>www\apple-touch-icon-114x114.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\apple-touch-icon-120x120.png">
+      <PackagePath>www\apple-touch-icon-120x120.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\apple-touch-icon-144x144.png">
+      <PackagePath>www\apple-touch-icon-144x144.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\apple-touch-icon-152x152.png">
+      <PackagePath>www\apple-touch-icon-152x152.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\apple-touch-icon-180x180.png">
+      <PackagePath>www\apple-touch-icon-180x180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\apple-touch-icon-57x57.png">
+      <PackagePath>www\apple-touch-icon-57x57.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\apple-touch-icon-60x60.png">
+      <PackagePath>www\apple-touch-icon-60x60.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\apple-touch-icon-72x72.png">
+      <PackagePath>www\apple-touch-icon-72x72.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\apple-touch-icon-76x76.png">
+      <PackagePath>www\apple-touch-icon-76x76.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\apple-touch-icon-precomposed.png">
+      <PackagePath>www\apple-touch-icon-precomposed.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\apple-touch-icon.png">
+      <PackagePath>www\apple-touch-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\favicon-16x16.png">
+      <PackagePath>www\favicon-16x16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\favicon-32x32.png">
+      <PackagePath>www\favicon-32x32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\favicon-96x96.png">
+      <PackagePath>www\favicon-96x96.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\favicon.png">
+      <PackagePath>www\favicon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\AVVR.png">
+      <PackagePath>www\images\AVVR.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\bernoulli.png">
+      <PackagePath>www\images\bernoulli.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\favicon.png">
+      <PackagePath>www\images\favicon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\icon114.png">
+      <PackagePath>www\images\icon114.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\icon128.png">
+      <PackagePath>www\images\icon128.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\icon144.png">
+      <PackagePath>www\images\icon144.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\icon16.png">
+      <PackagePath>www\images\icon16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\icon36.png">
+      <PackagePath>www\images\icon36.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\icon48.png">
+      <PackagePath>www\images\icon48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\icon57.png">
+      <PackagePath>www\images\icon57.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\icon72.png">
+      <PackagePath>www\images\icon72.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\icon96.png">
+      <PackagePath>www\images\icon96.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\lav.png">
+      <PackagePath>www\images\lav.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\images\VR.png">
+      <PackagePath>www\images\VR.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\mstile-144x144.png">
+      <PackagePath>www\mstile-144x144.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\mstile-150x150.png">
+      <PackagePath>www\mstile-150x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\mstile-310x150.png">
+      <PackagePath>www\mstile-310x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\mstile-310x310.png">
+      <PackagePath>www\mstile-310x310.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\mstile-70x70.png">
+      <PackagePath>www\mstile-70x70.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\scripts\scripts.js">
+      <PackagePath>www\scripts\scripts.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\scripts\vendor.js">
+      <PackagePath>www\scripts\vendor.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\scripts\views.js">
+      <PackagePath>www\scripts\views.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\angular-ui-tinymce.js">
+      <PackagePath>www\tinymce\angular-ui-tinymce.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\langs\el.js">
+      <PackagePath>www\tinymce\langs\el.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\tinymce.min.js">
+      <PackagePath>www\tinymce\tinymce.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\favicon.ico">
+      <PackagePath>www\favicon.ico</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\fonts\font-awesome.css">
+      <PackagePath>www\fonts\font-awesome.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\styles\main.css">
+      <PackagePath>www\styles\main.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\styles\vendor.css">
+      <PackagePath>www\styles\vendor.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\content.inline.min.css">
+      <PackagePath>www\tinymce\skins\lightgray\content.inline.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\content.min.css">
+      <PackagePath>www\tinymce\skins\lightgray\content.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\skin.ie7.min.css">
+      <PackagePath>www\tinymce\skins\lightgray\skin.ie7.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\skin.min.css">
+      <PackagePath>www\tinymce\skins\lightgray\skin.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\fonts\fontawesome-webfont.eot">
+      <PackagePath>www\fonts\fontawesome-webfont.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\fonts\tinymce-small.eot">
+      <PackagePath>www\tinymce\skins\lightgray\fonts\tinymce-small.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\fonts\tinymce.eot">
+      <PackagePath>www\tinymce\skins\lightgray\fonts\tinymce.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\fonts\fontawesome-webfont.svg">
+      <PackagePath>www\fonts\fontawesome-webfont.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\fonts\tinymce-small.svg">
+      <PackagePath>www\tinymce\skins\lightgray\fonts\tinymce-small.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\fonts\tinymce.svg">
+      <PackagePath>www\tinymce\skins\lightgray\fonts\tinymce.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\fonts\fontawesome-webfont.ttf">
+      <PackagePath>www\fonts\fontawesome-webfont.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\fonts\tinymce-small.ttf">
+      <PackagePath>www\tinymce\skins\lightgray\fonts\tinymce-small.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\fonts\tinymce.ttf">
+      <PackagePath>www\tinymce\skins\lightgray\fonts\tinymce.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\fonts\fontawesome-webfont.woff">
+      <PackagePath>www\fonts\fontawesome-webfont.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\fonts\tinymce-small.woff">
+      <PackagePath>www\tinymce\skins\lightgray\fonts\tinymce-small.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\fonts\tinymce.woff">
+      <PackagePath>www\tinymce\skins\lightgray\fonts\tinymce.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\fonts\fontawesome-webfont.woff2">
+      <PackagePath>www\fonts\fontawesome-webfont.woff2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\fonts\FontAwesome.otf">
+      <PackagePath>www\fonts\FontAwesome.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\manifest.appcache">
+      <PackagePath>www\manifest.appcache</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\fonts\tinymce-small.json">
+      <PackagePath>www\tinymce\skins\lightgray\fonts\tinymce-small.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\fonts\tinymce.json">
+      <PackagePath>www\tinymce\skins\lightgray\fonts\tinymce.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\img\anchor.gif">
+      <PackagePath>www\tinymce\skins\lightgray\img\anchor.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\img\loader.gif">
+      <PackagePath>www\tinymce\skins\lightgray\img\loader.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\img\object.gif">
+      <PackagePath>www\tinymce\skins\lightgray\img\object.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\skins\lightgray\img\trans.gif">
+      <PackagePath>www\tinymce\skins\lightgray\img\trans.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\debug\anycpu\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
