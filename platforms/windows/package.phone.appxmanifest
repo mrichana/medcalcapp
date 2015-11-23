@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-    <Identity Name="medcalc.richana.eu" Publisher="CN=$username$" Version="0.0.21.0" />
-    <mp:PhoneIdentity PhoneProductId="7289fb50-8735-11e5-86ab-0deb95a82778" PhonePublisherId="db093ed5-53b1-45f7-af72-751e8f36ab80" />
+    <Identity Name="medcalc.richana.eu" Publisher="CN=$username$" Version="0.0.22.0" />
+    <mp:PhoneIdentity PhoneProductId="c523ed20-9069-11e5-ac56-d34ab24ed337" PhonePublisherId="db093ed5-53b1-45f7-af72-751e8f36ab80" />
     <Properties>
         <DisplayName>Ιατρικό Βοήθημα</DisplayName>
-        <PublisherDisplayName>Missel Richana M.D.</PublisherDisplayName>
+        <PublisherDisplayName>Missel Richana MD</PublisherDisplayName>
         <Logo>images\StoreLogo.png</Logo>
     </Properties>
     <Prerequisites>

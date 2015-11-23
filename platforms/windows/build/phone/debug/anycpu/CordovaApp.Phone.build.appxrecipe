@@ -8,7 +8,7 @@
     <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
     <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <PackageIdentityName>7289fb50-8735-11e5-86ab-0deb95a82778</PackageIdentityName>
+    <PackageIdentityName>c523ed20-9069-11e5-ac56-d34ab24ed337</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\bld\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
@@ -18,8 +18,11 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\SplashScreen.scale-100.png">
-      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\BadgeLogo.png">
+      <PackagePath>images\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\SplashScreenPhone.scale-240.png">
       <PackagePath>images\SplashScreenPhone.scale-240.png</PackagePath>
@@ -223,6 +226,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\tinymce.min.js">
       <PackagePath>www\tinymce\tinymce.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\favicon.ico">
       <PackagePath>www\favicon.ico</PackagePath>

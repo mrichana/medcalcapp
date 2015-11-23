@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-    <Identity Name="medcalc.richana.eu" Publisher="CN=$username$" Version="0.0.21.0" />
+    <Identity Name="medcalc.richana.eu" Publisher="CN=$username$" Version="0.0.22.0" />
     <Properties>
         <DisplayName>Ιατρικό Βοήθημα</DisplayName>
-        <PublisherDisplayName>Missel Richana M.D.</PublisherDisplayName>
+        <PublisherDisplayName>Missel Richana MD</PublisherDisplayName>
         <Logo>images\StoreLogo.png</Logo>
     </Properties>
     <Prerequisites>

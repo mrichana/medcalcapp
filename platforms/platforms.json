@@ -1,5 +1,5 @@
 {
     "ios": "3.8.0",
     "android": "4.0.2",
-    "windows": "https://aka.ms/cordova-win10"
+    "windows": "4.1.0"
 }

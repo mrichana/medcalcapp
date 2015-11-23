@@ -1,1 +1,1 @@
-C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\CordovaApp.Windows.jsproj;neutral
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\CordovaApp.Windows10.jsproj;x64

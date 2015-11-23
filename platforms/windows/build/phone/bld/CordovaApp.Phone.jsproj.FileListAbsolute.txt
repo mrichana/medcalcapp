@@ -13,5 +13,6 @@ C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\bld\qua
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\bld\ProjectArchitectures.txt
-C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\bld\package.map.txt
-C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\bld\_pkginfo.txt
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Release\x64\ReverseMap\resources.pri
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Release\x64\AppxManifest.xml
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Release\x64\CordovaApp.Phone.build.appxrecipe

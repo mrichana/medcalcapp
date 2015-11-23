@@ -1,5 +1,6 @@
 config.xml
-images\SplashScreen.scale-100.png
+images\BadgeLogo.png
+images\splashscreen.scale-100.png
 images\Square150x150Logo.scale-100.png
 images\Square30x30Logo.scale-100.png
 images\Square310x310Logo.scale-100.png
@@ -88,3 +89,4 @@ www\tinymce\skins\lightgray\img\trans.gif
 www\tinymce\skins\lightgray\skin.ie7.min.css
 www\tinymce\skins\lightgray\skin.min.css
 www\tinymce\tinymce.min.js
+www\WinJS\js\base.js

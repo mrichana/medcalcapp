@@ -15,3 +15,5 @@ C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\bld\M
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\bld\ProjectArchitectures.txt
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\bld\package.map.txt
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\bld\_pkginfo.txt
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\Release\x64\ReverseMap\resources.pri
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\Release\x64\AppxManifest.xml

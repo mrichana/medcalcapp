@@ -18,8 +18,11 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\SplashScreen.scale-100.png">
-      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\BadgeLogo.png">
+      <PackagePath>images\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\images\Square150x150Logo.scale-100.png">
@@ -201,6 +204,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\tinymce\tinymce.min.js">
       <PackagePath>www\tinymce\tinymce.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\www\favicon.ico">
       <PackagePath>www\favicon.ico</PackagePath>
