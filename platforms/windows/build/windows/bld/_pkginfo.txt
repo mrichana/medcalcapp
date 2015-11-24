@@ -1,1 +1,1 @@
-C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\AppPackages\CordovaApp.Windows10_1.1.4.0_ARM_Test\CordovaApp.Windows10_1.1.4.0_ARM.appx
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\AppPackages\CordovaApp.Windows_1.1.0.0_ARM_Test\CordovaApp.Windows_1.1.0.0_ARM.appx

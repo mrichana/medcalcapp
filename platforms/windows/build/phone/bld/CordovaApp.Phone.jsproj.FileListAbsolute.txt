@@ -16,3 +16,9 @@ C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\bld\Pro
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Release\x64\ReverseMap\resources.pri
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Release\x64\AppxManifest.xml
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Release\x64\CordovaApp.Phone.build.appxrecipe
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Release\ARM\resources.pri
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Release\ARM\AppxManifest.xml
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Release\ARM\CordovaApp.Phone.build.appxrecipe
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Debug\x64\ReverseMap\resources.pri
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Debug\x64\AppxManifest.xml
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\phone\Debug\x64\CordovaApp.Phone.build.appxrecipe

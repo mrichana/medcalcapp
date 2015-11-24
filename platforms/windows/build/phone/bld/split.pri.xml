@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="62224MisselRichanaMD.58996320A4EAC" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/images/BadgeLogo.png">
+					<Candidate type="Path">
+						<Value>images\BadgeLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="splashscreen.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/images/splashscreen.png"/>
+				<NamedResource name="SplashScreenPhone.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/images/SplashScreenPhone.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreenPhone.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/images/Square30x30Logo.png"/>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/images/Square310x310Logo.png"/>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/images/Square70x70Logo.png"/>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="android-chrome-144x144.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/android-chrome-144x144.png">
+					<Candidate type="Path">
+						<Value>www\android-chrome-144x144.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="android-chrome-192x192.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/android-chrome-192x192.png">
+					<Candidate type="Path">
+						<Value>www\android-chrome-192x192.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="android-chrome-36x36.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/android-chrome-36x36.png">
+					<Candidate type="Path">
+						<Value>www\android-chrome-36x36.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="android-chrome-48x48.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/android-chrome-48x48.png">
+					<Candidate type="Path">
+						<Value>www\android-chrome-48x48.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="android-chrome-72x72.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/android-chrome-72x72.png">
+					<Candidate type="Path">
+						<Value>www\android-chrome-72x72.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="android-chrome-96x96.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/android-chrome-96x96.png">
+					<Candidate type="Path">
+						<Value>www\android-chrome-96x96.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="apple-touch-icon-114x114.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/apple-touch-icon-114x114.png">
+					<Candidate type="Path">
+						<Value>www\apple-touch-icon-114x114.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="apple-touch-icon-120x120.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/apple-touch-icon-120x120.png">
+					<Candidate type="Path">
+						<Value>www\apple-touch-icon-120x120.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="apple-touch-icon-144x144.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/apple-touch-icon-144x144.png">
+					<Candidate type="Path">
+						<Value>www\apple-touch-icon-144x144.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="apple-touch-icon-152x152.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/apple-touch-icon-152x152.png">
+					<Candidate type="Path">
+						<Value>www\apple-touch-icon-152x152.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="apple-touch-icon-180x180.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/apple-touch-icon-180x180.png">
+					<Candidate type="Path">
+						<Value>www\apple-touch-icon-180x180.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="apple-touch-icon-57x57.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/apple-touch-icon-57x57.png">
+					<Candidate type="Path">
+						<Value>www\apple-touch-icon-57x57.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="apple-touch-icon-60x60.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/apple-touch-icon-60x60.png">
+					<Candidate type="Path">
+						<Value>www\apple-touch-icon-60x60.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="apple-touch-icon-72x72.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/apple-touch-icon-72x72.png">
+					<Candidate type="Path">
+						<Value>www\apple-touch-icon-72x72.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="apple-touch-icon-76x76.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/apple-touch-icon-76x76.png">
+					<Candidate type="Path">
+						<Value>www\apple-touch-icon-76x76.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="apple-touch-icon-precomposed.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/apple-touch-icon-precomposed.png">
+					<Candidate type="Path">
+						<Value>www\apple-touch-icon-precomposed.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="apple-touch-icon.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/apple-touch-icon.png">
+					<Candidate type="Path">
+						<Value>www\apple-touch-icon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova.js" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="favicon-16x16.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/favicon-16x16.png">
+					<Candidate type="Path">
+						<Value>www\favicon-16x16.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="favicon-32x32.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/favicon-32x32.png">
+					<Candidate type="Path">
+						<Value>www\favicon-32x32.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="favicon-96x96.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/favicon-96x96.png">
+					<Candidate type="Path">
+						<Value>www\favicon-96x96.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="favicon.ico" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/favicon.ico">
+					<Candidate type="Path">
+						<Value>www\favicon.ico</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="favicon.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/favicon.png">
+					<Candidate type="Path">
+						<Value>www\favicon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="manifest.appcache" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/manifest.appcache">
+					<Candidate type="Path">
+						<Value>www\manifest.appcache</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mstile-144x144.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/mstile-144x144.png">
+					<Candidate type="Path">
+						<Value>www\mstile-144x144.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mstile-150x150.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/mstile-150x150.png">
+					<Candidate type="Path">
+						<Value>www\mstile-150x150.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mstile-310x150.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/mstile-310x150.png">
+					<Candidate type="Path">
+						<Value>www\mstile-310x150.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mstile-310x310.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/mstile-310x310.png">
+					<Candidate type="Path">
+						<Value>www\mstile-310x310.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mstile-70x70.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/mstile-70x70.png">
+					<Candidate type="Path">
+						<Value>www\mstile-70x70.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="cordova-js-src">
+					<NamedResource name="exec.js" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/cordova-js-src/exec.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\exec.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platform.js" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/cordova-js-src/platform.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\platform.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="fonts">
+					<NamedResource name="font-awesome.css" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/fonts/font-awesome.css">
+						<Candidate type="Path">
+							<Value>www\fonts\font-awesome.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fontawesome-webfont.eot" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/fonts/fontawesome-webfont.eot">
+						<Candidate type="Path">
+							<Value>www\fonts\fontawesome-webfont.eot</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fontawesome-webfont.svg" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/fonts/fontawesome-webfont.svg">
+						<Candidate type="Path">
+							<Value>www\fonts\fontawesome-webfont.svg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fontawesome-webfont.ttf" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/fonts/fontawesome-webfont.ttf">
+						<Candidate type="Path">
+							<Value>www\fonts\fontawesome-webfont.ttf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fontawesome-webfont.woff" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/fonts/fontawesome-webfont.woff">
+						<Candidate type="Path">
+							<Value>www\fonts\fontawesome-webfont.woff</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fontawesome-webfont.woff2" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/fonts/fontawesome-webfont.woff2">
+						<Candidate type="Path">
+							<Value>www\fonts\fontawesome-webfont.woff2</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FontAwesome.otf" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/fonts/FontAwesome.otf">
+						<Candidate type="Path">
+							<Value>www\fonts\FontAwesome.otf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="images">
+					<NamedResource name="AVVR.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/AVVR.png">
+						<Candidate type="Path">
+							<Value>www\images\AVVR.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="bernoulli.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/bernoulli.png">
+						<Candidate type="Path">
+							<Value>www\images\bernoulli.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="favicon.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/favicon.png">
+						<Candidate type="Path">
+							<Value>www\images\favicon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="icon114.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/icon114.png">
+						<Candidate type="Path">
+							<Value>www\images\icon114.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="icon128.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/icon128.png">
+						<Candidate type="Path">
+							<Value>www\images\icon128.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="icon144.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/icon144.png">
+						<Candidate type="Path">
+							<Value>www\images\icon144.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="icon16.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/icon16.png">
+						<Candidate type="Path">
+							<Value>www\images\icon16.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="icon36.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/icon36.png">
+						<Candidate type="Path">
+							<Value>www\images\icon36.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="icon48.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/icon48.png">
+						<Candidate type="Path">
+							<Value>www\images\icon48.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="icon57.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/icon57.png">
+						<Candidate type="Path">
+							<Value>www\images\icon57.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="icon72.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/icon72.png">
+						<Candidate type="Path">
+							<Value>www\images\icon72.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="icon96.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/icon96.png">
+						<Candidate type="Path">
+							<Value>www\images\icon96.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="lav.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/lav.png">
+						<Candidate type="Path">
+							<Value>www\images\lav.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="VR.png" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/images/VR.png">
+						<Candidate type="Path">
+							<Value>www\images\VR.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="scripts">
+					<NamedResource name="scripts.js" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/scripts/scripts.js">
+						<Candidate type="Path">
+							<Value>www\scripts\scripts.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="vendor.js" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/scripts/vendor.js">
+						<Candidate type="Path">
+							<Value>www\scripts\vendor.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="views.js" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/scripts/views.js">
+						<Candidate type="Path">
+							<Value>www\scripts\views.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="styles">
+					<NamedResource name="main.css" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/styles/main.css">
+						<Candidate type="Path">
+							<Value>www\styles\main.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="vendor.css" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/styles/vendor.css">
+						<Candidate type="Path">
+							<Value>www\styles\vendor.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="tinymce">
+					<NamedResource name="angular-ui-tinymce.js" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/angular-ui-tinymce.js">
+						<Candidate type="Path">
+							<Value>www\tinymce\angular-ui-tinymce.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="tinymce.min.js" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/tinymce.min.js">
+						<Candidate type="Path">
+							<Value>www\tinymce\tinymce.min.js</Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="langs">
+						<NamedResource name="el.js" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/langs/el.js">
+							<Candidate type="Path">
+								<Value>www\tinymce\langs\el.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="skins">
+						<ResourceMapSubtree name="lightgray">
+							<NamedResource name="content.inline.min.css" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/content.inline.min.css">
+								<Candidate type="Path">
+									<Value>www\tinymce\skins\lightgray\content.inline.min.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="content.min.css" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/content.min.css">
+								<Candidate type="Path">
+									<Value>www\tinymce\skins\lightgray\content.min.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="skin.ie7.min.css" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/skin.ie7.min.css">
+								<Candidate type="Path">
+									<Value>www\tinymce\skins\lightgray\skin.ie7.min.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="skin.min.css" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/skin.min.css">
+								<Candidate type="Path">
+									<Value>www\tinymce\skins\lightgray\skin.min.css</Value>
+								</Candidate>
+							</NamedResource>
+							<ResourceMapSubtree name="fonts">
+								<NamedResource name="tinymce-small.eot" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/fonts/tinymce-small.eot">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\fonts\tinymce-small.eot</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="tinymce-small.json" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/fonts/tinymce-small.json">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\fonts\tinymce-small.json</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="tinymce-small.svg" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/fonts/tinymce-small.svg">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\fonts\tinymce-small.svg</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="tinymce-small.ttf" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/fonts/tinymce-small.ttf">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\fonts\tinymce-small.ttf</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="tinymce-small.woff" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/fonts/tinymce-small.woff">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\fonts\tinymce-small.woff</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="tinymce.eot" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/fonts/tinymce.eot">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\fonts\tinymce.eot</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="tinymce.json" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/fonts/tinymce.json">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\fonts\tinymce.json</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="tinymce.svg" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/fonts/tinymce.svg">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\fonts\tinymce.svg</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="tinymce.ttf" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/fonts/tinymce.ttf">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\fonts\tinymce.ttf</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="tinymce.woff" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/fonts/tinymce.woff">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\fonts\tinymce.woff</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+							<ResourceMapSubtree name="img">
+								<NamedResource name="anchor.gif" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/img/anchor.gif">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\img\anchor.gif</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="loader.gif" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/img/loader.gif">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\img\loader.gif</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="object.gif" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/img/object.gif">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\img\object.gif</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="trans.gif" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/tinymce/skins/lightgray/img/trans.gif">
+									<Candidate type="Path">
+										<Value>www\tinymce\skins\lightgray\img\trans.gif</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="WinJS">
+					<ResourceMapSubtree name="js">
+						<NamedResource name="base.js" uri="ms-resource://62224MisselRichanaMD.58996320A4EAC/Files/www/WinJS/js/base.js">
+							<Candidate type="Path">
+								<Value>www\WinJS\js\base.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -402,3 +402,5 @@ C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\Relea
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\Release\ARM\CordovaApp.Windows10.build.appxrecipe
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\Release\ARM\Upload\CordovaApp.Windows10.build.appxrecipe
 C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\Release\x64\ReverseMap\resources.pri
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\Debug\x64\ReverseMap\resources.pri
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\build\windows\Debug\x64\AppxManifest.xml
