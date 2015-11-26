@@ -8,7 +8,6 @@
         Missel Richana MD
     </author>
     <content src="index.html" />
-    <icon src="icon.png" />
     <plugin name="cordova-plugin-whitelist" version="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
