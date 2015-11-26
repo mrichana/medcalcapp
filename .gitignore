@@ -16,3 +16,4 @@ www
 *.lock
 *.bin
 *.lock
+build
