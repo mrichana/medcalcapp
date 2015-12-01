@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="medcalc.richana.eu" version="0.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="medcalc.richana.eu" version="0.0.310" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <preference name="loglevel" value="DEBUG" />
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
     <allow-intent href="market:*" />
     <icon density="ldpi" src="res/android/ldpi.png" />
     <icon density="mdpi" src="res/android/mdpi.png" />
@@ -20,15 +24,14 @@
     <splash density="port-xhdpi" src="res/screen/android/splash-port-xhdpi.png" />
     <splash density="port-xxhdpi" src="res/screen/android/splash-port-xxhdpi.png" />
     <splash density="port-xxxhdpi" src="res/screen/android/splash-port-xxxhdpi.png" />
-    <name>Ιατρικό Βοήθημα</name>
+    <name>Υπερηχοκαρδιογραφικό Βοήθημα</name>
     <description>
-        Ιατρικοί υπολογιστές, χρήσιμοι στην κλινική πράξη.
+        Ιατρικοί υπολογιστές, χρήσιμοι στο Υπερηχοκαρδιογράφημα
     </description>
     <author email="mrichana@richana.eu" href="http://missel.richana.eu">
         Missel Richana MD
     </author>
     <content src="index.html" />
-    <icon src="icon.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />

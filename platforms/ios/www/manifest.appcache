@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-11-09T14:14:26.833Z
+# rev 1 - 2015-11-26T19:53:40.919Z
 
 CACHE:
 android-chrome-144x144.png
@@ -46,6 +46,7 @@ images/icon72.png
 images/icon96.png
 images/lav.png
 index.html
+index.triplex.html
 mstile-144x144.png
 mstile-150x150.png
 mstile-310x150.png

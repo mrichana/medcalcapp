@@ -1,38 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="62224MisselRichanaMD.58996320A4EAC" Publisher="CN=CAF7F6ED-986F-4ED5-B965-DC250E5D2A13" Version="1.1.0.0" />
-  <mp:PhoneIdentity PhoneProductId="6994b8e7-bd24-44db-9c15-70dbcbbc58f2" PhonePublisherId="db093ed5-53b1-45f7-af72-751e8f36ab80" />
-  <Properties>
-    <DisplayName>Ιατρικό Βοήθημα</DisplayName>
-    <PublisherDisplayName>Missel Richana MD</PublisherDisplayName>
-    <Logo>images\StoreLogo.png</Logo>
-  </Properties>
-  <Prerequisites>
-    <OSMinVersion>6.3.1</OSMinVersion>
-    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
-  </Prerequisites>
-  <Resources>
-    <Resource Language="x-generate" />
-  </Resources>
-  <Applications>
-    <Application Id="medcalc.richana.eu" StartPage="www/index.html">
-      <m3:VisualElements BackgroundColor="transparent" Description="CordovaApp" DisplayName="Ιατρικό Βοήθημα" ForegroundText="light" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
-        <m3:DefaultTile Square71x71Logo="images\Square71x71Logo.png" Wide310x150Logo="images\Wide310x150Logo.png">
-          <m3:ShowNameOnTiles>
-            <m3:ShowOn Tile="square150x150Logo" />
-            <m3:ShowOn Tile="wide310x150Logo" />
-          </m3:ShowNameOnTiles>
-        </m3:DefaultTile>
-        <m3:SplashScreen Image="images\SplashScreenPhone.png" />
-        <m3:InitialRotationPreference>
-          <m3:Rotation Preference="portrait" />
-          <m3:Rotation Preference="landscape" />
-          <m3:Rotation Preference="landscapeFlipped" />
-        </m3:InitialRotationPreference>
-      </m3:VisualElements>
-    </Application>
-  </Applications>
-  <Capabilities>
-    <Capability Name="internetClientServer" />
-  </Capabilities>
+    <Identity Name="medcalc.richana.eu" Publisher="CN=CAF7F6ED-986F-4ED5-B965-DC250E5D2A13" Version="0.0.3.0" />
+    <mp:PhoneIdentity PhoneProductId="6994b8e7-bd24-44db-9c15-70dbcbbc58f2" PhonePublisherId="db093ed5-53b1-45f7-af72-751e8f36ab80" />
+    <Properties>
+        <DisplayName>Υπερηχοκαρδιογραφικό Βοήθημα</DisplayName>
+        <PublisherDisplayName>Missel Richana MD</PublisherDisplayName>
+        <Logo>images\StoreLogo.png</Logo>
+    </Properties>
+    <Prerequisites>
+        <OSMinVersion>6.3.1</OSMinVersion>
+        <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+    </Prerequisites>
+    <Resources>
+        <Resource Language="x-generate" />
+    </Resources>
+    <Applications>
+        <Application Id="medcalc.richana.eu" StartPage="www/index.html">
+            <m3:VisualElements BackgroundColor="transparent" Description="CordovaApp" DisplayName="Υπερηχοκαρδιογραφικό Βοήθημα" ForegroundText="light" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
+                <m3:DefaultTile Square71x71Logo="images\Square71x71Logo.png" Wide310x150Logo="images\Wide310x150Logo.png">
+                    <m3:ShowNameOnTiles>
+                        <m3:ShowOn Tile="square150x150Logo" />
+                        <m3:ShowOn Tile="wide310x150Logo" />
+                    </m3:ShowNameOnTiles>
+                </m3:DefaultTile>
+                <m3:SplashScreen Image="images\SplashScreenPhone.png" />
+            </m3:VisualElements>
+        </Application>
+    </Applications>
+    <Capabilities>
+        <Capability Name="internetClientServer" />
+    </Capabilities>
 </Package>

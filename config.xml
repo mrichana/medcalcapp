@@ -1,8 +1,8 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<widget id="medcalc.richana.eu" version="0.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Ιατρικό Βοήθημα</name>
+<widget id="medcalc.richana.eu" version="0.0.310" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Υπερηχοκαρδιογραφικό Βοήθημα</name>
     <description>
-        Ιατρικοί υπολογιστές, χρήσιμοι στην κλινική πράξη.
+        Ιατρικοί υπολογιστές, χρήσιμοι στο Υπερηχοκαρδιογράφημα
     </description>
     <author email="mrichana@richana.eu" href="http://missel.richana.eu">
         Missel Richana MD
