@@ -1,0 +1,1 @@
+C:\Users\mrich\Documents\GitHub\medcalcapp\platforms\windows\CordovaApp.Phone.jsproj;x64
